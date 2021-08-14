@@ -2,7 +2,6 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 
-![github]
 
 ## Installation
 
